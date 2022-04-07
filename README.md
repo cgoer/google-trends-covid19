@@ -1,4 +1,4 @@
-#Correlations between Google Search Volumes of COVID-19 symptoms and infections in Germany over the course of the pandemic
+Correlations between Google Search Volumes of COVID-19 symptoms and infections in Germany over the course of the pandemic
 by Christian Görner
 ---
 
